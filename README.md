@@ -10,13 +10,14 @@ Each week contains daily projects, notes, and experiments that build on the conc
 
 ## 📂 Repository Structure
 
-```
+```text
 10-weeks-of-ai/
 │
 ├── week1/
 │   ├── day1/
 │   ├── day2/
-│   └── day3/
+│   ├── day3/
+│   └── day4/
 │
 ├── week2/
 ├── week3/
@@ -26,48 +27,53 @@ Each week contains daily projects, notes, and experiments that build on the conc
 
 ---
 
-## 📚 Course Progress
+## 📖 Week 1 Highlights
 
-| Week | Topics | Status |
-|------|--------|--------|
-| Week 1 | Groq API, Prompt Engineering, System Prompts, Temperature | ✅ Completed |
-| Week 2 | Coming Soon | ⏳ |
-| Week 3 | Coming Soon | ⏳ |
-| Week 4 | Coming Soon | ⏳ |
-| Week 5 | Coming Soon | ⏳ |
-| Week 6 | Coming Soon | ⏳ |
-| Week 7 | Coming Soon | ⏳ |
-| Week 8 | Coming Soon | ⏳ |
-| Week 9 | Coming Soon | ⏳ |
-| Week 10 | Coming Soon | ⏳ |
+During the first week, I explored the fundamentals of building applications with Large Language Models and AI APIs.
+
+### Topics Covered
+
+* Connecting to the Groq API
+* Chat Completions API
+* Prompt Engineering
+* System Prompts
+* Temperature and model behavior
+* JSON Responses from LLMs
+* Structured Output Generation
+* Pydantic for Response Validation
+* Parsing and Validating JSON Responses
+* Environment Variable Management with `python-dotenv`
 
 ---
 
 ## 🛠️ Technologies
 
-- Python
-- Groq API
-- Large Language Models (LLMs)
-- Prompt Engineering
-- python-dotenv
-- uv
-- Git & GitHub
+* Python
+* Groq API
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Pydantic
+* JSON
+* python-dotenv
+* uv
+* Git & GitHub
 
 ---
 
 ## 🎯 Objectives
 
-- Learn modern AI development from scratch
-- Understand prompt engineering techniques
-- Build real-world AI applications
-- Explore LLM APIs and model parameters
-- Create practical projects throughout the course
+* Learn modern AI development from scratch
+* Understand prompt engineering techniques
+* Work with LLM APIs effectively
+* Generate and validate structured AI outputs
+* Build real-world AI applications
+* Create practical projects throughout the course
 
 ---
 
 ## 📌 Notes
 
-Each week's folder contains individual daily projects along with their own documentation and source code.
+Each week's folder contains individual daily projects along with their own documentation, source code, and experiments completed during the learning process.
 
 This repository will continue to grow as I progress through the course.
 
@@ -77,4 +83,4 @@ This repository will continue to grow as I progress through the course.
 
 **Sounok Ghosh**
 
-- GitHub: https://github.com/Sounok19
+* GitHub: https://github.com/Sounok19
